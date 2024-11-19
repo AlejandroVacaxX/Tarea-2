@@ -9,5 +9,5 @@ Este proyecto es un __Diagrama de clases__ que permite visualizar la reprecentac
 Incluye características como: sintaxis de herencia, implementacion, multiplicidad, asociaciones, atributos, metodos, constructores.
 
 ## Licencia
-__Archivo de licencia__ /home/baka/Escritorio/4_tri/Tarea2UML/License.txt
+[__Archivo de licencia__] (/home/baka/Escritorio/4_tri/Tarea2UML/License.txt)
 __"Este proyecto cuenta con licencia conforme a los términos de la licencia MIT".__
