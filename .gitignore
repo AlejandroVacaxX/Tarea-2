@@ -1,0 +1,3 @@
+// ignoraremos todos los archivos que terminen en .class
+
+*.class
