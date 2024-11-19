@@ -1,6 +1,7 @@
 # __Tarea 2__
 ## Diagrama de clases
 
+
 ### Proposito
 El proposito de este proyecto es poner en practica lo aprendido en las pasadas clases de Fundamentos de Ingenieria de Software,de esta manera reforzamos nuestro conociento en el tema.
 ## Descripcion
