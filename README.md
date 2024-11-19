@@ -9,5 +9,6 @@ Este proyecto es un __Diagrama de clases__ que permite visualizar la reprecentac
 Incluye características como: sintaxis de herencia, implementacion, multiplicidad, asociaciones, atributos, metodos, constructores.
 
 ## Licencia
-[__Archivo de licencia__] (https://choosealicense.com/licenses/mit/)
+[Archivo de licencia](https://choosealicense.com/licenses/mit/)
+
 __"Este proyecto cuenta con licencia conforme a los términos de la licencia MIT".__
