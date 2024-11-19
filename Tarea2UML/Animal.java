@@ -20,7 +20,7 @@ public abstract class Animal {
 
     // getters y setters
     public String getNombre() {
-        return nombre;
+        return nombre + " ";
     }
 
     public void setNombre(String nombre) {
