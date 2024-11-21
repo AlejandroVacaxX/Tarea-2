@@ -12,7 +12,7 @@ public class Perro extends Animal implements Domesticable {
     // Implementación del método hacerSonido de Animal
     @Override
     public void hacerSonido() {
-        System.out.println("El perro " + nombre + " dice: ¡Guau!");
+        System.out.println("El ornitoringo " + nombre + " dice: ¡Guau!");
     }
 
     // Implementación del método serSociable de la interfaz Mascota
